@@ -4,6 +4,7 @@ public class OptionalAssignmentTest {
 
     public OptionalAssignmentTest() {
         // TODO: Need to create an instance?
+        // ANSWER: No, I did not need to create an instance.
     }
 
 
